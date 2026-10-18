@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jan Gajda</h1>
-<h3 align="center">A Student of Smart Service Design a Systems Thinking at Masaryk Univerzity</h3>
+<h3 align="center">A Student of Smart Service Design and Systems Thinking at Masaryk Univerzity, Brno</h3>
 
-- 📫 How to reach me **jan.gajda36@gmail.com**
+- 📫 How to reach me: **jan.gajda36@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
