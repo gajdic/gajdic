@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jan Gajda</h1>
+<h1 align="center">Hi, I'm Jan Gajda</h1>
 <h3 align="center">A Student of Smart Service Design a Systems Thinking at Masaryk Univerzity</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/gajdic](https://github.com/gajdic)
 
 - 📫 How to reach me **jan.gajda36@gmail.com**
 
