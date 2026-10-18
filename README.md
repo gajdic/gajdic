@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jan Gajda</h1>
-<h3 align="center">A Student of Smart Service Design and Systems Thinking at Masaryk Univerzity, Brno</h3>
+<h3 align="center">A Student of Software Systems and Services Management at Masaryk Univerzity, Brno</h3>
 
 - 📫 How to reach me: **jan.gajda36@gmail.com**
 
